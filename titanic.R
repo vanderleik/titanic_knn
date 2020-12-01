@@ -1,8 +1,5 @@
 # Titanic: Machine Learning from Disaster
 
-# https://cran.r-project.org/web/views/MachineLearning.html
-# https://medium.com/better-programming/titanic-survival-prediction-using-machine-learning-4c5ff1e3fa16
-
 setwd("c:/FCD/PortfolioR/titanic")
 getwd()
 
